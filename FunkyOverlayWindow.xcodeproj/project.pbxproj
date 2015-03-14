@@ -16,9 +16,9 @@
 		D096F3CC13CCF2170038BF93 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = D096F3CA13CCF2170038BF93 /* MainMenu.xib */; };
 		D096F3E713CD07070038BF93 /* ColorView.m in Sources */ = {isa = PBXBuildFile; fileRef = D096F3DF13CD07070038BF93 /* ColorView.m */; };
 		D096F3E913CD07070038BF93 /* OverlayWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = D096F3E313CD07070038BF93 /* OverlayWindow.m */; };
-		DF7225E71A9E318000EBD06F /* explosion.gif in Resources */ = {isa = PBXBuildFile; fileRef = DF7225E61A9E318000EBD06F /* explosion.gif */; };
 		DF7225F41A9E71FE00EBD06F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DF7225F31A9E71FE00EBD06F /* AppDelegate.m */; };
 		DF7226221A9E77E000EBD06F /* Window.xib in Resources */ = {isa = PBXBuildFile; fileRef = DF7226211A9E77E000EBD06F /* Window.xib */; };
+		DF7879911AB3C46E00516EE4 /* explosion.gif in Resources */ = {isa = PBXBuildFile; fileRef = DF7879901AB3C46E00516EE4 /* explosion.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,10 +39,10 @@
 		D096F3DF13CD07070038BF93 /* ColorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColorView.m; sourceTree = "<group>"; };
 		D096F3E213CD07070038BF93 /* OverlayWindow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OverlayWindow.h; sourceTree = "<group>"; };
 		D096F3E313CD07070038BF93 /* OverlayWindow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OverlayWindow.m; sourceTree = "<group>"; };
-		DF7225E61A9E318000EBD06F /* explosion.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = explosion.gif; path = ../../../Desktop/explosion.gif; sourceTree = "<group>"; };
 		DF7225F21A9E71FE00EBD06F /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		DF7225F31A9E71FE00EBD06F /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		DF7226211A9E77E000EBD06F /* Window.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Window.xib; sourceTree = "<group>"; };
+		DF7879901AB3C46E00516EE4 /* explosion.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = explosion.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,7 +104,7 @@
 				D096F3E213CD07070038BF93 /* OverlayWindow.h */,
 				D096F3E313CD07070038BF93 /* OverlayWindow.m */,
 				D096F3CA13CCF2170038BF93 /* MainMenu.xib */,
-				DF7225E61A9E318000EBD06F /* explosion.gif */,
+				DF7879901AB3C46E00516EE4 /* explosion.gif */,
 				D096F3BC13CCF2170038BF93 /* Supporting Files */,
 				DF7225F21A9E71FE00EBD06F /* AppDelegate.h */,
 				DF7225F31A9E71FE00EBD06F /* AppDelegate.m */,
@@ -177,9 +177,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				D096F3C013CCF2170038BF93 /* InfoPlist.strings in Resources */,
+				DF7879911AB3C46E00516EE4 /* explosion.gif in Resources */,
 				D096F3C613CCF2170038BF93 /* Credits.rtf in Resources */,
 				D096F3CC13CCF2170038BF93 /* MainMenu.xib in Resources */,
-				DF7225E71A9E318000EBD06F /* explosion.gif in Resources */,
 				D009C1AF13CFB56400BEF613 /* ReadMe.txt in Resources */,
 				DF7226221A9E77E000EBD06F /* Window.xib in Resources */,
 			);
